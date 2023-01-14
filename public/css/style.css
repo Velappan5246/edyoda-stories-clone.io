@@ -310,6 +310,7 @@ header .navbar ul li a {
 
 .not_avail {
     width: 100%;
+    min-height:50vh;
 }
 
 .not_avail p {
