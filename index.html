@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment - 2</title>
+    <!-- ====== Google Font ====== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+    <!-- ====== External Css ====== -->
+    <link rel="stylesheet" href="./public/css/style.css">
+</head>
+<body>
+    <!-- ======= Start : Header Section ======= -->
+    <header>
+        <nav>
+           <div class="container-fluid d-flex justify-content-lg-between align-items-center">
+                <a href="#" class="logo">
+                    <div class="logo-container">
+                        <h6>Edyoda</h6>
+                        <p class="mb-0">Stories</p>
+                    </div>
+                </a>
+                <label for="menu" class="menu-bar"><i class="fa-solid fa-bars"></i></label>
+                <input type="checkbox"  name="menu" id="menu" class="menu menu-bar">
+                <div class="navbar ml-5">
+                    <ul>
+                        <li><a href="#">Explore Categories <i class="fa-solid fa-chevron-down ml-8"></i></a></li>
+                    </ul>
+                </div> 
+           </div>
+        </nav>
+    </header>
+    <!-- ======= End : Header Section ======= -->
+
+
+    <main>
+        <section class="categories-section">
+            <div class="container px-lg-5">
+                <div class="section-title">
+                    <h1>Trending Posts</h1>
+                </div>
+                <div class="filter-container">
+                    <div class="filter-title">
+                        <h6><i class="fa-solid fa-filter"></i> Filter by Category</h6>
+                    </div>
+                    <div class="filter-items">
+                        <div class="item active" data-filter-data="all">All</div>
+                        <div class="item" data-filter-data="ai">Artificial Intelligence</div>
+                        <div class="item" data-filter-data="cloud">Cloud Computing</div>
+                        <div class="item" data-filter-data="devops">DevOps</div>
+                        <div class="item" data-filter-data="pl">Programming Languages</div>
+                        <div class="item" data-filter-data="mad">Mobile Application Development</div>
+                        <div class="item" data-filter-data="tt">Technology and Tools</div>
+                        <div class="item" data-filter-data="job">Get a Job in a Tech Company</div>
+                        <div class="item" data-filter-data="others">Others</div>
+                    </div>
+                </div>
+                <div class="loader-container d-flex justify-content-center">
+                    <span class="loader"></span>
+                </div>
+                <div class="categories-items">
+                    
+                </div>
+            </div>
+        </section>
+    </main>
+    
+
+    <footer>
+        <div class="container-fluid">
+            <p>Copyright &copy;2022 All rights reserved | This template is made with  by <a href="http://vel.42web.io">vel</a></p>
+        </div>
+    </footer>
+
+    <!-- ====== Font Awesome Script ====== -->
+    <script src="https://kit.fontawesome.com/4c0f2f5b7d.js" crossorigin="anonymous"></script>
+    <!-- ====== Jquery Script ====== -->
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <!-- ====== main js ====== -->
+    <script src="./public/js/script.js"></script>
+</body>
+</html>

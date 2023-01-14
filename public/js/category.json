@@ -1,0 +1,74 @@
+[
+    {
+        "type" : "ai",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/learn_machine_learning_courses_online.png",
+        "title" : "Introduction To A Machine Learning Online Course",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "23 Aug 2019"
+            }
+        ],
+        "desc" : "We have had an insight into Artificial Intelligence. Well, one of its subfields is machine learning and this introduction will help you get a fair idea of what this machine learning..."
+    },
+    {
+        "type" : "devops",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/6.png",
+        "title" : "LAMP Stack Vs MEAN stack",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "24 Aug 2019"
+            }
+        ],
+        "desc" : "In today’s dynamic world, developing a rapid application with a smooth user interface that can..."
+    },
+    {
+        "type" : "cloud",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/4.png",
+        "title" : "Impact of Cloud Computing in",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "24 Aug 2019"
+            }
+        ],
+        "desc" : "Cloud computing has been rapidly gaining pace in the world of information technology. It has..."
+    },
+    {
+        "type" : "ml",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/3.png",
+        "title" : "Challenges of Machine",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "24 Aug 2019"
+            }
+        ],
+        "desc" : "Machine Learning is a subset of artificial intelligence which is an important part of computer science..."
+    },
+    {
+        "type" : "pl",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/5.png",
+        "title" : "Breaking the Myths around",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "26 Aug 2019"
+            }
+        ],
+        "desc" : "Cybersecurity plays an integral role in the process of good business models. But even cybersecurity..."
+    },
+    {
+        "type" : "cloud",
+        "img" : "https://edyoda.s3.amazonaws.com/media/blog-images/7.png",
+        "title" : "Importance of Data Backup",
+        "author_details" : [
+            {
+                "name" : "Edyoda",
+                "date" : "26 Aug 2019"
+            }
+        ],
+        "desc" : " A business must always introspect the areas where they lack in order to bring about a positive change in..."
+    }
+]
