@@ -9,7 +9,7 @@ $(document).ready(function() {
     }, 2000);
     function getDetails(filterby) {
         $.ajax({
-            url : baseUrl + '/public/js/category.json',
+            url : baseUrl + '/edyoda-stories-clone.io/public/js/category.json',
             method : 'get'
         }).done(function(res){
             $('.loader-container').addClass('d-none');
